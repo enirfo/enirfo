@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @enirfo
-- 👀 Github instantly flagged my account before I could do anything
-- 🌱 I was looking forward to learn to use this tool that my developer friends use
-- 💞️ I am sad and disappointed
-- 📫 I guess I'll play Elden Ring instead
+- 🌱 I make games with my friends
 
 <!---
 enirfo/enirfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
